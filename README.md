@@ -41,9 +41,9 @@ In this comprehensive overview of AIOps, we cover AIOps researchers, conferences
 - [Alibaba] [SSD SMART logs and failure data](https://github.com/alibaba-edu/dcbrain/tree/master/ssd_open_data)
 - [Alibaba] [Alibaba Cluster Trace Program](https://github.com/alibaba/clusterdata)
 - [Tsinghua] [AIOps Challenge Dataset](https://competition.aiops-challenge.com/home/competition/)
-- [Yahoo: A Labeled Anomaly Detection Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
-- [Security Repo - Mike Sconzo](https://www.secrepo.com/)
-- [AIT](https://zenodo.org/records/5789064#.YkFnZWJBxhE) -- [AIT aecid](https://github.com/ait-aecid/kyoushi-environment)
+- [Yahoo] [A Labeled Anomaly Detection Dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=s&did=70)
+- [Mike Sconzo] [Security Repo](https://www.secrepo.com/)
+- [AIT] [AIT](https://zenodo.org/records/5789064#.YkFnZWJBxhE) -- [AIT aecid](https://github.com/ait-aecid/kyoushi-environment)
 
 
 ## benchmarks
@@ -72,7 +72,7 @@ In this comprehensive overview of AIOps, we cover AIOps researchers, conferences
 - [OWL: A Large Language Model for IT Operations](https://arxiv.org/abs/2309.09298) -- [project](https://github.com/HC-Guo/Owl) 
 - [An Empirical Study of NetOps Capability of Pre-Trained Large Language Models](https://arxiv.org/abs/2309.05557) -- [project](https://huggingface.co/datasets/NASP/neteval-exam) 
 - [OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models](https://arxiv.org/abs/2310.07637)] -- [project](https://opseval.cstcloud.cn/content/home#home) 
-- [CodeFuse] [codefuse-ai/codefuse-devops-eval](https://github.com/codefuse-ai/codefuse-devops-eval) -- paper comming soon?
+- [codefuse-ai/codefuse-devops-eval](https://github.com/codefuse-ai/codefuse-devops-eval) -- paper comming soon?
 
 
 
@@ -95,7 +95,7 @@ In this comprehensive overview of AIOps, we cover AIOps researchers, conferences
 - [VMware] [Proactive Incident and Problem Management](https://docplayer.net/8854482-Proactive-incident-and-problem-management.html)
 - [Awesome Open Source] [Aiops Handbook](https://awesomeopensource.com/project/chenryn/aiops-handbook)
 - [GREATOPS 高效运维社区] [《企业级 AIOps 实施建议》白皮书](https://pic.huodongjia.com/ganhuodocs/2018-04-16/1523873064.74.pdf)
-- [awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection)
+- [rob-med] [awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection)
 
 ### WeChat Official Accounts
 - 腾讯织云（腾讯）
