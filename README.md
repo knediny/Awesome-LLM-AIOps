@@ -15,7 +15,7 @@ In this comprehensive overview of AIOps, we cover AIOps researchers, conferences
 + **云计算领域 Cloud computing area**
     + Conferences: [SoCC](https://dblp.uni-trier.de/db/conf/cloud/index.html) | [CLOUD](https://dblp.uni-trier.de/db/conf/IEEEcloud/index)
     + Journals: [TCC](https://dblp.uni-trier.de/db/journals/tcc/index.html)
-+ **网络领域Networking area**
++ **网络领域 Networking area**
     + Conferences: [NSDI](https://dblp.uni-trier.de/db/conf/nsdi/index) | [INFOCOMM](https://dblp.uni-trier.de/db/conf/infocom/index)
     + Journals: [TON](https://dblp.uni-trier.de/db/journals/ton/index.html)
 + **软件工程领域 Software engineering area**
